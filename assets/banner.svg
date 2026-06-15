@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1280 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UX & Design Project Templates — by UXAgencies.com">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#161D3A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#bg)"/>
+
+  <!-- decorative stacked documents -->
+  <g>
+    <g transform="translate(1040,118) rotate(9)" opacity="0.35">
+      <rect width="150" height="190" rx="14" fill="#1B2347" stroke="#33406E" stroke-width="2"/>
+      <rect width="150" height="9" rx="4" fill="#6C8BFF"/>
+      <rect x="20" y="36" width="108" height="7" rx="3.5" fill="#33406E"/>
+      <rect x="20" y="56" width="84" height="7" rx="3.5" fill="#2A3460"/>
+      <rect x="20" y="76" width="108" height="7" rx="3.5" fill="#2A3460"/>
+      <rect x="20" y="96" width="62" height="7" rx="3.5" fill="#2A3460"/>
+    </g>
+    <g transform="translate(990,84) rotate(-6)" opacity="0.55">
+      <rect width="150" height="190" rx="14" fill="#1B2347" stroke="#3A487A" stroke-width="2"/>
+      <rect width="150" height="9" rx="4" fill="#FF7A6B"/>
+      <rect x="20" y="36" width="108" height="7" rx="3.5" fill="#3A487A"/>
+      <rect x="20" y="56" width="84" height="7" rx="3.5" fill="#2F3A66"/>
+      <rect x="20" y="76" width="108" height="7" rx="3.5" fill="#2F3A66"/>
+      <rect x="20" y="96" width="70" height="7" rx="3.5" fill="#2F3A66"/>
+    </g>
+    <g transform="translate(1055,70) rotate(4)" opacity="0.95">
+      <rect width="152" height="196" rx="14" fill="#1F284C" stroke="#46568F" stroke-width="2"/>
+      <rect width="152" height="10" rx="4" fill="#6C8BFF"/>
+      <rect x="22" y="38" width="108" height="8" rx="4" fill="#46568F"/>
+      <rect x="22" y="60" width="84" height="8" rx="4" fill="#37457A"/>
+      <rect x="22" y="82" width="108" height="8" rx="4" fill="#37457A"/>
+      <rect x="22" y="104" width="64" height="8" rx="4" fill="#37457A"/>
+      <rect x="22" y="138" width="50" height="20" rx="10" fill="none" stroke="#FF7A6B" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- text block -->
+  <text x="80" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#6C8BFF">UXAGENCIES.COM<tspan fill="#6E7AA6" letter-spacing="3">&#160;&#160;·&#160;&#160;OPEN-SOURCE TOOLKIT</tspan></text>
+
+  <text x="77" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="49" font-weight="800" fill="#F5F7FF">UX &amp; Design Project</text>
+  <text x="77" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="49" font-weight="800" fill="#F5F7FF">Templates</text>
+
+  <text x="80" y="251" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#AEB7D6">The structure, the prompts, and the hard-won guidance most templates leave out.</text>
+
+  <!-- pills -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="80" y="276" width="84" height="34" rx="17" fill="#6C8BFF" fill-opacity="0.14" stroke="#6C8BFF" stroke-opacity="0.55"/>
+    <text x="122" y="298" text-anchor="middle" fill="#C7D2FF">RFP</text>
+
+    <rect x="176" y="276" width="142" height="34" rx="17" fill="#6C8BFF" fill-opacity="0.14" stroke="#6C8BFF" stroke-opacity="0.55"/>
+    <text x="247" y="298" text-anchor="middle" fill="#C7D2FF">Design Brief</text>
+
+    <rect x="330" y="276" width="180" height="34" rx="17" fill="#6C8BFF" fill-opacity="0.14" stroke="#6C8BFF" stroke-opacity="0.55"/>
+    <text x="420" y="298" text-anchor="middle" fill="#C7D2FF">UX Research Plan</text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How the three templates fit together: RFP to choose, brief to align, research plan to validate">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect width="1100" height="300" rx="20" fill="#F7F8FB" stroke="#E4E8F1"/>
+
+  <text class="t" x="44" y="48" font-size="23" font-weight="800" fill="#141A33">How the three fit together</text>
+  <text class="t" x="44" y="76" font-size="15" fill="#5A6480">One project, three documents — each handing the next its starting point.</text>
+
+  <!-- arrow labels + connectors -->
+  <g class="t" font-size="13" font-style="italic" fill="#8A93AD" text-anchor="middle">
+    <text x="370" y="166">choose</text>
+    <text x="730" y="166">align</text>
+  </g>
+  <g stroke="#B9C2DA" stroke-width="2" fill="#B9C2DA">
+    <line x1="346" y1="182" x2="392" y2="182"/>
+    <polygon points="392,177 402,182 392,187"/>
+    <line x1="706" y1="182" x2="752" y2="182"/>
+    <polygon points="752,177 762,182 752,187"/>
+  </g>
+
+  <!-- Card 1 -->
+  <g>
+    <rect x="48" y="108" width="292" height="152" rx="14" fill="#EEF1F8"/>
+    <rect x="44" y="104" width="292" height="152" rx="14" fill="#FFFFFF" stroke="#E2E7F1"/>
+    <text class="t" x="66" y="136" font-size="13" font-weight="700" letter-spacing="1.5" fill="#5B7BFF">STEP 1 · RFP</text>
+    <text class="t" x="66" y="166" font-size="19" font-weight="800" fill="#141A33">Request for Proposal</text>
+    <text class="t" x="66" y="196" font-size="14" fill="#5A6480">Frame the problem and</text>
+    <text class="t" x="66" y="216" font-size="14" fill="#5A6480">invite agencies to pitch.</text>
+    <circle cx="70" cy="242" r="3" fill="#5B7BFF"/>
+    <text class="t" x="80" y="246" font-size="12.5" fill="#8A93AD">Written by the buyer</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g>
+    <rect x="408" y="108" width="292" height="152" rx="14" fill="#EEF1F8"/>
+    <rect x="404" y="104" width="292" height="152" rx="14" fill="#FFFFFF" stroke="#E2E7F1"/>
+    <text class="t" x="426" y="136" font-size="13" font-weight="700" letter-spacing="1.5" fill="#5B7BFF">STEP 2 · BRIEF</text>
+    <text class="t" x="426" y="166" font-size="19" font-weight="800" fill="#141A33">Design Brief</text>
+    <text class="t" x="426" y="196" font-size="14" fill="#5A6480">Align everyone on what</text>
+    <text class="t" x="426" y="216" font-size="14" fill="#5A6480">&#8220;good&#8221; looks like.</text>
+    <circle cx="430" cy="242" r="3" fill="#5B7BFF"/>
+    <text class="t" x="440" y="246" font-size="12.5" fill="#8A93AD">Written by buyer + agency</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g>
+    <rect x="768" y="108" width="292" height="152" rx="14" fill="#EEF1F8"/>
+    <rect x="764" y="104" width="292" height="152" rx="14" fill="#FFFFFF" stroke="#E2E7F1"/>
+    <text class="t" x="786" y="136" font-size="13" font-weight="700" letter-spacing="1.5" fill="#FF6B5B">STEP 3 · RESEARCH</text>
+    <text class="t" x="786" y="166" font-size="19" font-weight="800" fill="#141A33">UX Research Plan</text>
+    <text class="t" x="786" y="196" font-size="14" fill="#5A6480">Keep the work grounded</text>
+    <text class="t" x="786" y="216" font-size="14" fill="#5A6480">in evidence, not opinion.</text>
+    <circle cx="790" cy="242" r="3" fill="#FF6B5B"/>
+    <text class="t" x="800" y="246" font-size="12.5" fill="#8A93AD">Written by the researcher</text>
+  </g>
+</svg>
